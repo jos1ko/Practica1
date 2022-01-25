@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 900px;
+    margin: 0 auto;
+    height: 600px;
+    background-color: brown;
+    border: 5px double #ccc;
+}
+.box1{
+    background-color: rgb(68, 114, 114);
+}
+.box2{
+    background-color: rgb(255, 255, 124);
+    padding: 7px;
+}
+.box2 p{
+    background-color: rgb(255, 208, 0);
+    border: orangered solid 1px;
+    width: 110px;
+}
+.box3{
+    background-color: rgb(143, 202, 204);
+    padding: 7px;
+    height: 20px;
+}
+.box3 p{
+    background-color: rgb(255, 208, 0);
+    border: orangered solid 1px;
+    width: 110px;
+    float: left;
+    margin-right: 15px;
+}
+.box4{
+    border: black solid 1px;
+    background-color: rgb(143, 202, 204);
+    padding: 7px;
+    height: 20px;
+}
+.box4 p{
+    background-color: rgb(255, 208, 0);
+    border: orangered solid 1px;
+    width: 110px;
+    float: left;
+    margin-right: 15px;
+}
+.box5{
+    background-color: rgb(143, 202, 204);
+    padding: 7px;
+    height: 20px;
+}
+.box5 p{
+    background-color: rgb(255, 208, 0);
+    border: orangered solid 1px;
+    width: 110px;
+    float: left;
+    margin-right: 15px;
+}
+.box6{
+    background-color: rgb(0, 95, 98);
+    padding: 7px;
+    height: 20px;
+}
+.box7{
+    background-color: rgb(255, 243, 70);
+    padding: 7px;
+    height: 20px;
+    border: white solid 2px;
+}
+.box7 p{
+    background-color: rgb(255, 208, 0);
+    border: orangered solid 1px;
+    width: 110px;
+    float: right;
+    margin-right: 15px;
+}
+.box8{
+    background-color: rgb(109, 230, 109);
+    padding: 7px;
+    height: 20px;
+    border: white solid 2px;
+}
+.box8 p{
+    background-color: rgb(255, 208, 0);
+    border: orangered solid 1px;
+    width: 110px;
+    float: right;
+    margin-right: 15px;
+}
+.box9{
+    background-color: rgb(197, 113, 186);
+    padding: 7px;
+    height: 20px;
+    border: white solid 2px;
+}
+.box9 p{
+    background-color: rgb(255, 208, 0);
+    border: orangered solid 1px;
+    width: 110px;
+    float: right;
+    margin-right: 15px;
+}
